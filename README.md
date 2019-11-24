@@ -16,6 +16,7 @@ In Main.js i created 3 blog post having Title, date , image and the information 
 In Nav.js 
 I used axios function to execute the API keys. 
 I use google API to get the title of the news. 
+API key is :0f6523556e4047888de4267e4d626754
 Using AJAX use timer to them refresh.
 Also add the 5 sec timer to refresh the page in nav.js file. 
 It also shows in console log with refreshing the arrary.
