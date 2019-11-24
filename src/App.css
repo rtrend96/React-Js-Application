@@ -20,3 +20,8 @@
 .App-link {
   color: #09d3ac;
 }
+
+.row {
+  padding-top: 50px;
+  display: flex;
+}

@@ -1,0 +1,8 @@
+.Nav {
+    float: right;
+    width: 25%;
+    position:fix;
+    padding: 10px;
+    height: 460px;
+    background:grey; 
+  }

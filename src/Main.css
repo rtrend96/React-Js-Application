@@ -1,0 +1,38 @@
+.Main {
+    
+    
+    width: 75%;
+    position:fix;
+    padding: 10px;
+    height: 460px;
+    background:yellow;
+    display: flex;
+  }
+
+.table{
+    width:100%;
+}
+
+.Blog {
+
+     
+     background-color: silver;
+     position: fixed;
+     padding-left: 2%;
+     padding-right: 5px;
+     width: 21%;
+     height: 450px;
+     font-size: 10px;
+
+}  
+
+
+
+
+.App-logo {
+    height: 100px;
+    width: 150px;
+  }
+  
+  
+
