@@ -21,4 +21,4 @@ Using AJAX use timer to them refresh.
 Also add the 5 sec timer to refresh the page in nav.js file. 
 It also shows in console log with refreshing the arrary.
 
->>>>>>> 3eeee2d1b6709a81874d57a59ea360be71416eb5
+>>>>>>>
